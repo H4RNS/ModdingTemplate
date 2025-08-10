@@ -3,7 +3,7 @@ using BepInEx;
 using UnityEngine;
 using Utilla;
 
-namespace ModdingTemplate
+namespace GorillaTagModTemplate
 {
 	[BepInPlugin(Constants.GUID, Constants.Name, Constants.Version)]
 	public class Plugin : BaseUnityPlugin
@@ -16,4 +16,5 @@ namespace ModdingTemplate
 		}
 	}
 }
+
 
